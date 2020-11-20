@@ -76,7 +76,6 @@ public:
         if(!textureTubi.loadFromFile(pathTexture))
         {
             printf("\ncaricamento tubi non valido ");
-            return;
         }
         coordinateRettangolo=vettoreCoordinateRettangolo;
         dimensioneRect.lunghezza=vettoreCoordinateRettangolo.width;

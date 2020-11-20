@@ -28,7 +28,7 @@ private:
 public:
     
     Score (RenderWindow& window){
-        if(!font.loadFromFile("/Users/niccoloferesini/Desktop/GameProgramming/Gioco/Cripsy.ttf"))
+        if(!font.loadFromFile("/Users/niccoloferesini/Desktop/GameProgramming/FlappyBird/FlappyBird/Cripsy.ttf"))
         {
             printf("\n errore di caricamento del punteggio del giocatore");
             return;

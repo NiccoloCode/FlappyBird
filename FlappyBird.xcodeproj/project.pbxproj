@@ -25,7 +25,7 @@
 		FF84F9822567F32C00313FD3 /* Score.hpp in Sources */ = {isa = PBXBuildFile; fileRef = FF84F9772567F32C00313FD3 /* Score.hpp */; };
 		FF84F9832567F32C00313FD3 /* Tubi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF84F9782567F32C00313FD3 /* Tubi.cpp */; };
 		FF84F9862567F3A200313FD3 /* FlappyBird-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FF84F9852567F3A200313FD3 /* FlappyBird-Info.plist */; };
-		FF84F9892567F45F00313FD3 /* tubi.png in Resources */ = {isa = PBXBuildFile; fileRef = FF84F9882567F45F00313FD3 /* tubi.png */; };
+		FF84F9922567F94000313FD3 /* tubi.png in Resources */ = {isa = PBXBuildFile; fileRef = FF84F9912567F93F00313FD3 /* tubi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,7 +49,7 @@
 		FF84F9772567F32C00313FD3 /* Score.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = Score.hpp; path = FlappyBird/Score.hpp; sourceTree = "<group>"; };
 		FF84F9782567F32C00313FD3 /* Tubi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Tubi.cpp; path = FlappyBird/Tubi.cpp; sourceTree = "<group>"; };
 		FF84F9852567F3A200313FD3 /* FlappyBird-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "FlappyBird-Info.plist"; path = "FlappyBird/FlappyBird-Info.plist"; sourceTree = "<group>"; };
-		FF84F9882567F45F00313FD3 /* tubi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tubi.png; path = FlappyBird/tubi.png; sourceTree = "<group>"; };
+		FF84F9912567F93F00313FD3 /* tubi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tubi.png; path = FlappyBird/tubi.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 		FF84F93C2567F1E400313FD3 = {
 			isa = PBXGroup;
 			children = (
-				FF84F9882567F45F00313FD3 /* tubi.png */,
+				FF84F9912567F93F00313FD3 /* tubi.png */,
 				FF84F9852567F3A200313FD3 /* FlappyBird-Info.plist */,
 				FF84F9722567F32C00313FD3 /* BackgroundManager.cpp */,
 				FF84F9762567F32C00313FD3 /* BackgroundManager.hpp */,
@@ -180,7 +180,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF84F9892567F45F00313FD3 /* tubi.png in Resources */,
+				FF84F9922567F94000313FD3 /* tubi.png in Resources */,
 				FF84F9862567F3A200313FD3 /* FlappyBird-Info.plist in Resources */,
 				FF84F9672567F30500313FD3 /* background.jpg in Resources */,
 				FF84F9682567F30500313FD3 /* personaggio.png in Resources */,
