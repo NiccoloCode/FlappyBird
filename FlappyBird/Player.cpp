@@ -14,12 +14,12 @@ using namespace sf;
 using namespace std;
 
 
-
-namespace nf {
+namespace nf 
+{
 
 class Player
 {
-private:
+ private:
     Texture playerTexture;
     Sprite playerSprite;
     Clock clock;
